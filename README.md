@@ -1,7 +1,7 @@
 # port-project
 A miniature microservice for testing logging applications on.
 
-## repositories
+## Repositories
 - port-back-end
     a server that accepts `{"word":"your-word"}` and logs it
 - port-front-end

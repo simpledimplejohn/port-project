@@ -27,3 +27,4 @@ A miniature microservice for testing logging applications on.
 - AWS 
     - ec2 instances
 - Azure
+- ANSIBLE for deployments

@@ -10,6 +10,10 @@ A miniature microservice for testing logging applications on.
     node.js script sending a randomly generated word every 5 seconds
 - port-selenium
     a node.js selenium script sending a randomly generated word every 5 seconds to the port-front-end
+- datadog-python
+    simple python code that sends a heartbeat to datadog
+- datadog-typescript
+    simple typescript code that sends a log to datadog (not working)
 
 ## APM tools
 - Splunk

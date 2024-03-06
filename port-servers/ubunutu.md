@@ -18,4 +18,3 @@ process_config:
 `datadog-agnet configcheck`
 `datadog-agent config`
 
-

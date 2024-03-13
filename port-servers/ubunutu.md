@@ -1,6 +1,6 @@
 # Setting up an instance with Ubunutu
 ## ssh into the instance
-- `sudo su` change to rrot user
+- `sudo su` change to root user
 
 ## Install Datadog Agent
 - DD_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx DD_SITE="us5.datadoghq.com" DD_APM_INSTRUMENTATION_ENABLED=host  bash -c "$(curl -L https://s3.amazonaws.com/dd-agent/scripts/install_script_agent7.sh)"

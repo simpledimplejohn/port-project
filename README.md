@@ -23,6 +23,7 @@ A miniature microservice for testing logging applications on.
     - loaded the agent 
     - unable to send logs
 - Rapid7
+    - IDR
 - GreyLog
 
 ## Deployments
